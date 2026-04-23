@@ -15,25 +15,25 @@ Tenho experiência no ciclo completo de desenvolvimento: levantamento de requisi
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" />
 </p>
 
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cs" />
 </p>
 
 **Bases de Dados & ORM**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma" />
 </p>
 
 **Testes, Ferramentas & Infra**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,git,github,postman,linux,docker,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=jest,git,github,postman,vscode,bash" />
 </p>
 
 **Cloud & Deploy**
@@ -41,15 +41,6 @@ Tenho experiência no ciclo completo de desenvolvimento: levantamento de requisi
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,cloudflare,nginx,render" />
 </p>
-
----
-
-## 📌 Projectos em Destaque
-
-| Projecto | Descrição | Stack |
-|---|---|---|
-| **Sistema de Gestão de Análises Laboratoriais** | Plataforma interna para um cliente na área da saúde — do levantamento de requisitos ao deployment | Node.js · Express · SQL |
-| **Scripts de Automatização** | Automações em JS e Google Apps Script que reduziram significativamente o tempo de tarefas manuais | JavaScript · GAS |
 
 ---
 

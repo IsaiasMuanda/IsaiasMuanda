@@ -1,8 +1,12 @@
-# Olá, sou o Isaias Muanda 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Isaias+Muanda+%F0%9F%91%8B;Full+Stack+Developer;Clean+Code+%7C+SOLID+%7C+TDD" alt="Typing SVG" />
+</p>
 
-Programador Full Stack com experiência em todo o ciclo de desenvolvimento, da arquitectura ao deployment. Escrevo código limpo, testável e pensado para crescer. Gosto de resolver problemas reais: sistemas que simplificam processos, APIs robustas e interfaces que as pessoas realmente conseguem usar.
+---
 
-Aplico princípios SOLID, TDD e boas práticas de engenharia de software no dia-a-dia, porque código bem estruturado desde o início poupa muito tempo no futuro.
+Construo software do início ao fim — da base de dados à interface — com foco em soluções que funcionam bem e são fáceis de manter. Não me limito a fazer o código funcionar: preocupo-me com a arquitectura, a testabilidade e a clareza do que escrevo.
+
+Tenho experiência no ciclo completo de desenvolvimento: levantamento de requisitos, design de sistemas, implementação, testes e deployment. Confortável tanto a trabalhar em equipa como de forma autónoma.
 
 ---
 
@@ -10,30 +14,42 @@ Aplico princípios SOLID, TDD e boas práticas de engenharia de software no dia-
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,graphql" />
+</p>
 
 **Bases de Dados & ORM**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,redis,sqlite" />
+</p>
 
-**Testes & Ferramentas**
+**Testes, Ferramentas & Infra**
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,git,github,postman,linux,docker,vscode,bash" />
+</p>
+
+**Cloud & Deploy**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,nginx,render" />
+</p>
+
+---
+
+## 📌 Projectos em Destaque
+
+| Projecto | Descrição | Stack |
+|---|---|---|
+| **Sistema de Gestão de Análises Laboratoriais** | Plataforma interna para um cliente na área da saúde — do levantamento de requisitos ao deployment | Node.js · Express · SQL |
+| **Scripts de Automatização** | Automações em JS e Google Apps Script que reduziram significativamente o tempo de tarefas manuais | JavaScript · GAS |
 
 ---
 
@@ -45,8 +61,17 @@ Aplico princípios SOLID, TDD e boas práticas de engenharia de software no dia-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasmuanda&layout=compact&hide_border=true&theme=default" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isaiasmuanda&hide_border=true&theme=default" height="150"/>
+</p>
+
 ---
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-muanda)
+<p>
+  &nbsp;
+  <a href="https://linkedin.com/in/isaias-muanda">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>

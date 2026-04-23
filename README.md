@@ -1,12 +1,12 @@
-# Hi, I'm Isaias Muanda 👋
+# Olá, sou o Isaias Muanda 👋
 
-Full Stack Developer based in **Luanda, Angola** — building web applications with a focus on clean architecture, maintainable code, and real-world impact.
+Programador Full Stack sediado em **Luanda, Angola** — construo aplicações web com foco em arquitectura limpa, código maintível e impacto real.
 
-I work across the full stack: from designing REST APIs and data models to building interfaces that are fast, accessible, and pleasant to use. Open to remote opportunities.
+Trabalho em toda a stack: desde a concepção de APIs REST e modelação de dados até à criação de interfaces rápidas, acessíveis e agradáveis de usar. Disponível para trabalho remoto.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tecnologias
 
 **Frontend**
 
@@ -22,12 +22,12 @@ I work across the full stack: from designing REST APIs and data models to buildi
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-**Databases**
+**Bases de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Testing & Tools**
+**Testes & Ferramentas**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -36,32 +36,23 @@ I work across the full stack: from designing REST APIs and data models to buildi
 
 ---
 
-## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Lab Test Management System** | Internal platform for a healthcare client — from requirements to deployment | Node.js · Express · SQL |
-| **Workflow Automation Scripts** | JS & Google Apps Script automations that cut manual task time significantly | JavaScript · GAS |
-
----
-
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaias-muanda&show_icons=true&hide_border=true&count_private=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isaiasmuanda&show_icons=true&hide_border=true&count_private=true&theme=default" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaias-muanda&layout=compact&hide_border=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiasmuanda&layout=compact&hide_border=true&theme=default" height="150"/>
 </p>
 
 ---
 
-## 📬 Contact
+## 📬 Contacto
 
-[![Gmail](https://img.shields.io/badge/isaiasmuanda09@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:isaiasmuanda09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-muanda)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaias-muanda&color=grey&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=isaiasmuanda&color=grey&style=flat" alt="visitas ao perfil"/>
 </p>

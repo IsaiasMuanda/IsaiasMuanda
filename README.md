@@ -1,8 +1,8 @@
 # Olá, sou o Isaias Muanda 👋
 
-Programador Full Stack sediado em **Luanda, Angola** — construo aplicações web com foco em arquitectura limpa, código maintível e impacto real.
+Programador Full Stack com experiência em todo o ciclo de desenvolvimento, da arquitectura ao deployment. Escrevo código limpo, testável e pensado para crescer. Gosto de resolver problemas reais: sistemas que simplificam processos, APIs robustas e interfaces que as pessoas realmente conseguem usar.
 
-Trabalho em toda a stack: desde a concepção de APIs REST e modelação de dados até à criação de interfaces rápidas, acessíveis e agradáveis de usar. Disponível para trabalho remoto.
+Aplico princípios SOLID, TDD e boas práticas de engenharia de software no dia-a-dia, porque código bem estruturado desde o início poupa muito tempo no futuro.
 
 ---
 
@@ -22,10 +22,11 @@ Trabalho em toda a stack: desde a concepção de APIs REST e modelação de dado
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-**Bases de Dados**
+**Bases de Dados & ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 **Testes & Ferramentas**
 
@@ -35,7 +36,6 @@ Trabalho em toda a stack: desde a concepção de APIs REST e modelação de dado
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
 
 ## 📊 Estatísticas do GitHub
 
@@ -50,9 +50,3 @@ Trabalho em toda a stack: desde a concepção de APIs REST e modelação de dado
 ## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-muanda)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaiasmuanda&color=grey&style=flat" alt="visitas ao perfil"/>
-</p>

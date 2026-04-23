@@ -4,7 +4,7 @@
 
 ---
 
-Construo software do início ao fim — da base de dados à interface — com foco em soluções que funcionam bem e são fáceis de manter. Não me limito a fazer o código funcionar: preocupo-me com a arquitectura, a testabilidade e a clareza do que escrevo.
+Construo software do início ao fim, da base de dados à interface, com foco em soluções que funcionam bem e são fáceis de manter. Não me limito a fazer o código funcionar: preocupo-me com a arquitectura, a testabilidade e a clareza do que escrevo.
 
 Tenho experiência no ciclo completo de desenvolvimento: levantamento de requisitos, design de sistemas, implementação, testes e deployment. Confortável tanto a trabalhar em equipa como de forma autónoma.
 
